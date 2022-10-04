@@ -1762,3 +1762,19 @@ section {
 th{
   padding: 10px;
 }
+
+.partnerslogo {
+  width: 10rem;
+  height: auto;
+  margin: 0 3%;
+}
+
+.partnerslogo2 {
+  width: 10rem;
+  height: auto;
+  margin: 0 10%;
+}
+
+.info-about img{
+  margin: 4em 0;
+}
